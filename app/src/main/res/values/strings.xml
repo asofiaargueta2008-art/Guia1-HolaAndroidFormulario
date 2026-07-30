@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HolaAndroidViews</string>
+
+    <string name="welcome_message">Bienvenidos estudiantes en desarrollo de Software</string>
+    <string name="droid_description">Imagen del androide</string>
+
+    <string name="next">Siguiente</string>
+    <string name="previous">Anterior</string>
+    <string name="lorem_ipsum">Texto de ejemplo</string>
+    <string name="action_settings">Configuración</string>
+    <string name="first_fragment_label">Primera pantalla</string>
+    <string name="second_fragment_label">Segunda pantalla</string>
+
+</resources>
